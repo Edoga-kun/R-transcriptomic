@@ -1,0 +1,6 @@
+ID	Condition
+C1	Control
+C2	Control
+IL8_1	Treated
+IL8_2	Treated
+
